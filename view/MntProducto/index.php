@@ -7,7 +7,7 @@
 
     <!-- Twitter -->
     <meta name="twitter:site" content="@themepixels">
-    <meta name="twitter:creator" content="@themepixels">
+    <meta name="twitter:creator" content="@themepixels"> #336490
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Bracket">
     <meta name="twitter:description" content="Premium Quality and Responsive UI for Dashboard.">
